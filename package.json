@@ -1,11 +1,11 @@
 {
-  "name": "blanded-05",
+  "name": "blended-05",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blanded-05/",
+    "build": "vite build --base=/blended-05/",
     "preview": "vite preview"
   },
   "devDependencies": {
